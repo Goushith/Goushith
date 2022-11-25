@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif)](https://rishavchanda.io)
+[![MasterHead](https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Goushith C Mohan</h1>
 <h3 align="center">MEA(R)N Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
